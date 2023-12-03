@@ -50,6 +50,7 @@ export class self implements OnInit {
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 <img align="right" width="650" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<br>
 
 **Utilidades**
 
