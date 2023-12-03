@@ -68,11 +68,10 @@ export class self implements OnInit {
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifv22&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifv22&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>    
+  <img src="https://github-readme-stats.vercel.app/api?username=davifv22&show_icons=true&theme=dracula&line_height=27" alt="**Davi Viana** github stats"/>
 </div>
-<div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=davifv22&show_icons=true&theme=dracula&line_height=27" alt="**Davi Viana** github stats"/>
-</div>
+
 <div>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davifv22&repo=angular-blog&theme=dracula&count_private=true&show_icons=true)](https://github.com/davifv22/angular-blog)
