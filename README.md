@@ -49,7 +49,7 @@ export class self implements OnInit {
 ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
-<img align="right" width="500" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="650" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 **Utilidades**
 
@@ -67,6 +67,7 @@ export class self implements OnInit {
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
+<br>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifv22&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>    
   <img src="https://github-readme-stats.vercel.app/api?username=davifv22&show_icons=true&theme=dracula&line_height=27" alt="**Davi Viana** github stats"/>
