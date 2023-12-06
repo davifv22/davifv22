@@ -78,6 +78,7 @@ export class self implements OnInit {
 <div>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davifv22&repo=angular-blog&theme=dracula&count_private=true&show_icons=true)](https://github.com/davifv22/angular-blog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davifv22&repo=angular-psn-store&theme=dracula&count_private=true&show_icons=true)](https://github.com/davifv22/angular-psn-store)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davifv22&repo=portfolio-dio&theme=dracula&count_private=true&show_icons=true)](https://github.com/davifv22/Portfolio-Dio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davifv22&repo=pokedex-dio&theme=dracula&count_private=true&show_icons=true)](https://github.com/davifv22/Pokedex-DIO)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davifv22&repo=API-GestCom-Updater&theme=dracula&count_private=true&show_icons=true)](https://github.com/davifv22/API-GestCom-Updater)
