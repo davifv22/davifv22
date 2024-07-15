@@ -10,7 +10,7 @@ export class self implements OnInit {
 
   ngOnInit(): void {
     this.name = 'Davi Francisco Viana';
-    this.job = 'Analista de Suporte na GestCom Informática';
+    this.job = 'Analista de Desenvolvimento na Sisaut Tecnologia';
     this.mainLanguages = ['Python', 'Visual Basic 6', 'SQL Server'];
     this.mainSkills = ['Desenvolvimento', 'Capacidade Analítica',
                        'Teste de Software', 'Git', 'Banco de Dados',
