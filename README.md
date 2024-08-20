@@ -69,21 +69,24 @@ export class self implements OnInit {
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-<div>
-</div>
+**Linguagens utilizadas**
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifv22&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>    
+</div>
+
+**Commits e outros**
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=davifv22&show_icons=true&theme=dracula&line_height=27" alt="**Davi Viana** github stats"/>
 </div>
 
+## Projetos
 <div>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davifv22&repo=oServ&theme=dracula&count_private=true&show_icons=true)](https://github.com/davifv22/oServ)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davifv22&repo=angular-blog&theme=dracula&count_private=true&show_icons=true)](https://github.com/davifv22/angular-blog)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davifv22&repo=angular-psn-store&theme=dracula&count_private=true&show_icons=true)](https://github.com/davifv22/angular-psn-store)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davifv22&repo=portfolio-dio&theme=dracula&count_private=true&show_icons=true)](https://github.com/davifv22/Portfolio-Dio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davifv22&repo=pokedex-dio&theme=dracula&count_private=true&show_icons=true)](https://github.com/davifv22/Pokedex-DIO)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davifv22&repo=API-GestCom-Updater&theme=dracula&count_private=true&show_icons=true)](https://github.com/davifv22/API-GestCom-Updater)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davifv22&repo=controlelanchonete&theme=dracula&count_private=true&show_icons=true)](https://github.com/davifv22/ControleLanchonete)
-
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davifv22&repo=oServ&theme=dracula&count_private=true&show_icons=true)](https://github.com/davifv22/oServ)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davifv22&repo=angular-blog&theme=dracula&count_private=true&show_icons=true)](https://github.com/davifv22/angular-blog)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davifv22&repo=angular-psn-store&theme=dracula&count_private=true&show_icons=true)](https://github.com/davifv22/angular-psn-store)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davifv22&repo=portfolio-dio&theme=dracula&count_private=true&show_icons=true)](https://github.com/davifv22/Portfolio-Dio)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davifv22&repo=pokedex-dio&theme=dracula&count_private=true&show_icons=true)](https://github.com/davifv22/Pokedex-DIO)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davifv22&repo=API-GestCom-Updater&theme=dracula&count_private=true&show_icons=true)](https://github.com/davifv22/API-GestCom-Updater)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davifv22&repo=controlelanchonete&theme=dracula&count_private=true&show_icons=true)](https://github.com/davifv22/ControleLanchonete)
 </div>
